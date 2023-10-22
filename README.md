@@ -9,7 +9,7 @@ EnemyProjectile.cs
 C# class for projectiles fired from enemies, contains a boolean that can be interacted with by use of a reflect spell in order for these projectiles to hit enemies instead of the player
 
 PizzaCalc.c
-A program in C that reads in a file of information about pizzas (name, diameter, cost) and returns a linked list sorted in order of cost effectiveness of pizzas, created for Computer Architecture class
+A program in C that reads in a file of information about pizzas (name, diameter, cost) and returns a linked list sorted in order of cost effectiveness of pizzas, created for Computer Architecture class (CS250)
 
 PizzaCalc.s
 Same program as above recreated in MIPS Assembly
@@ -29,5 +29,8 @@ C# script for a flying wyvern boss fight encountered by the player, includes fun
 Zeya.cs
 C# script for behavior of another character encountered by the player and fought, includes functionalities for moving, attacking, and spellcasting based on player location
 
+border2.txt
+An example of a file of instructions that cachesim.c is meant to speed up
+
 cachesim.c
-A program in C that simulates a cache to speed up series of load and store instructions in memory
+A program in C that simulates a cache to speed up series of load and store instructions in memory, created for Computer Architecture
