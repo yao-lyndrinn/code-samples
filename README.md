@@ -1,4 +1,10 @@
 # code-samples
+cart.html
+HTML for a webpage showing the user's cart in Quokkazon e-commerce site simulator project
+
+cart.py
+Python file for cart functionalities, including adding items to the cart, updating item quantities, and submitting the cart as an order
+
 CrystalDoorEnemy.cs
 C# script for a door enemy in personal game project Lethe that serves as a barrier between rooms, overrides Enemy ChangeHealth function so that it requires use of a reflect spell to be destroyed
 
