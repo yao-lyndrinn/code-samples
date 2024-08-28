@@ -14,9 +14,6 @@ A program in C that reads in a file of information about pizzas (name, diameter,
 PizzaCalc.s
 Same program as above recreated in MIPS Assembly
 
-Zeya.cs
-C# script for behavior of another character encountered by the player and fought, includes functionalities for moving, attacking, and spellcasting based on player location
-
 border2.txt
 An example of a file of instructions that cachesim.c is meant to speed up
 
